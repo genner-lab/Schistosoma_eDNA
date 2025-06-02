@@ -1,4 +1,4 @@
-10.5281/zenodo.15575381
+[![DOI](https://zenodo.org/badge/994702931.svg)](https://doi.org/10.5281/zenodo.15575380)
 
 # Schistosoma species detection by environmental DNA assays in African freshwaters
 
