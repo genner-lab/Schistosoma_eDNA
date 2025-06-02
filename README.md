@@ -1,3 +1,5 @@
+10.5281/zenodo.15575381
+
 # Schistosoma species detection by environmental DNA assays in African freshwaters
 
 Schistosoma detection paper, supporting data
