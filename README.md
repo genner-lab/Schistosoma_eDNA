@@ -12,8 +12,8 @@ https://doi.org/10.1371/journal.pntd.0008129
 
 ***
 
-File: Experimental_S_mansoni_assay.txt - Data for Table 4, experimental S. mansoni assay 
+File: Experimental_S_mansoni_assay.txt - Data for Table 4, experimental _S. mansoni_ assay 
 
-File: Field_S_mansoni_haematobium_assays.txt - Data for Table 6, field S. mansoni and S. haemotobium assays.
+File: Field_S_mansoni_haematobium_assays.txt - Data for Table 6, field _S. mansoni_ and _S. haematobium_ assays.
 
 ***
