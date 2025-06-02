@@ -2,7 +2,7 @@
 
 Schistosoma detection paper, supporting data
 
-Supporting data for Alzaylaee et al. 2020 "Schistosoma species detection by environmental DNA assays in African freshwaters".  PLOS Neglected Tropical Diseases 14(9): e0008721. 
+Supporting data for Alzaylaee et al. 2020 "Schistosoma species detection by environmental DNA assays in African freshwaters". _PLOS Neglected Tropical Diseases_ 14(9): e0008721. 
 
 https://doi.org/10.1371/journal.pntd.0008129
 
